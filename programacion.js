@@ -1,5 +1,5 @@
 
-const radios = document.querySelectorAll('input[name="opcionopciones"]');
+const radios = document.querySelectorAll('input[name="option"]');
 const select = document.getElementById('mySelect');
 
 radios.forEach(radio => {
